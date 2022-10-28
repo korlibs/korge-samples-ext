@@ -1,0 +1,6 @@
+includeBuild 'sample-korge-box2d'
+includeBuild 'sample-korge-compose'
+includeBuild 'sample-korge-dragonbones'
+includeBuild 'sample-korge-fleks'
+includeBuild 'sample-korge-ldtk'
+includeBuild 'sample-korge-spine'
